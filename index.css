@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: #002200;
+    color: #008800;
+    font-family: 'Comic Sans MS', 'Courier New', Courier, monospace;
+    max-width: 45em;
+    margin: 0 auto;
+
+    height: 100%;
+    overflow: hidden;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    border: #001100;
+    border-width: 0.5em;
+    border-style: solid;
+    margin: 0 auto;
+}
